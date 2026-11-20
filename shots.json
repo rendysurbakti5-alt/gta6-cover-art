@@ -1,5 +1,30 @@
 [
-  { "name": "1-cover.jpg", "query": "?shot=cover&photo=pier&caption=Sunset%20Heist", "w": 1080, "h": 1080 },
-  { "name": "2-editor.jpg", "query": "?shot=editor&photo=boulevard&caption=Boulevard%20Queen", "w": 1280, "h": 720 },
-  { "name": "3-cover.jpg", "query": "?shot=cover&photo=boulevard&caption=Boulevard%20Queen", "w": 1080, "h": 1080 }
+  {
+    "h": 720,
+    "name": "1-cover.jpg",
+    "query": "?shot=export",
+    "w": 1280,
+    "what": "The exported 1920 x 1080 cover (Hero layout, Vice Sunset grade), shown full-screen by the app itself"
+  },
+  {
+    "h": 1280,
+    "name": "2-editor.jpg",
+    "query": "?shot=editor",
+    "w": 1280,
+    "what": "The editor with both sample photos loaded across the Hero layout's panels"
+  },
+  {
+    "h": 1080,
+    "name": "3-cover-portrait.jpg",
+    "query": "?shot=export-portrait",
+    "w": 864,
+    "what": "The exported 1080 x 1350 cover (Triptych layout, Golden Hour grade), shown full-screen by the app itself"
+  },
+  {
+    "h": 720,
+    "name": "4-editor-neon.jpg",
+    "query": "?shot=editor-neon",
+    "w": 1280,
+    "what": "The editor again: Diagonal layout, Neon Nights grade, square size, a different caption"
+  }
 ]
